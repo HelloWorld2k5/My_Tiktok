@@ -1,4 +1,4 @@
-function ExplorePage() {
+function Explore() {
     return (
         <div>
             <h3>Đây là trang khám phá</h3>
@@ -6,4 +6,4 @@ function ExplorePage() {
     );
 }
 
-export default ExplorePage;
+export default Explore;

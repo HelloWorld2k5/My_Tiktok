@@ -1,4 +1,4 @@
-function FriendsPage() {
+function Friends() {
     return (
         <div>
             <h3>Đây là trang bạn bè</h3>
@@ -6,4 +6,4 @@ function FriendsPage() {
     );
 }
 
-export default FriendsPage;
+export default Friends;

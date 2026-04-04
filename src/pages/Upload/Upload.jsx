@@ -1,4 +1,4 @@
-function UploadPage() {
+function Upload() {
     return (
         <div>
             <h3>Đây là trang tải video lên</h3>
@@ -6,4 +6,4 @@ function UploadPage() {
     );
 }
 
-export default UploadPage;
+export default Upload;
